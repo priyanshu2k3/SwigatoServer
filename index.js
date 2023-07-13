@@ -1,9 +1,15 @@
 const express = require('express')
 const cors=require("cors")
 var fs = require('fs');
-const data= require("../New folder/New folder/archive/file1.json")
+const data= require("./New folder/archive/file1.json")
 const app = express()
-const port = 8000
+
+require('dotenv').config();
+
+
+const port = process.env.PORT ||8080;
+
+console.log(port)
 
 
 app.use(cors())
