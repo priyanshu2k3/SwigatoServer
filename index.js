@@ -1,34 +1,36 @@
 const express = require('express')
 const cors=require("cors")
-var fs = require('fs');
-const data= require("./New folder/archive/file1.json")
+const Router=require("./router/routes.js")
+const mongoose = require ("mongoose")
+require('dotenv').config();
+const cookieParser = require('cookie-parser');
+
+//var data= require("./data.txt")
+//data=JSON.parse(data)
 const app = express()
 
-require('dotenv').config();
+const uri =process.env.URI
 
+///mogodb connecting
+mongoose.connect(uri, {useNewUrlParser: true,useUnifiedTopology: true,})
+.then(()=>{console.log("db is connected")})
+.catch((e)=>console.log("error in mongodb ",e))
+
+
+
+
+// 
+require('dotenv').config();
+app.use(express.urlencoded({extended:false}))
+app.use(express.json())
+app.use(cors(withCredentials = true));
+app.use(cookieParser());
 
 const port = process.env.PORT ||8080;
 
-console.log(port)
-
-
-app.use(cors())
-app.get('/', (req, res) => {
-
-
-  console.log(1)
-  res.send(data)
-})
-
-
-app.post('/', (req, res) => {
-    res.send('post req Hello World!')
-  })
-  
-
-
+app.use("/",Router)
 
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`)
+  console.log(`app listening on port ${port}`,)
 })

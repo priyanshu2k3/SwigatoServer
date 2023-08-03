@@ -1,0 +1,271 @@
+{
+    "data": [
+      {
+        "cuisine": "Greek",
+        "food_name": "Moussaka",
+        "fact": "Moussaka is a Greek dish made with layers of eggplant, minced meat, and béchamel sauce, baked to perfection.",
+        "price": "$13.75"
+      },
+      {
+        "cuisine": "Japanese",
+        "food_name": "Sushi",
+        "fact": "Sushi is a Japanese dish of vinegared rice served with various ingredients like raw fish, avocado, cucumber, or tempura.",
+        "price": "$22.50"
+      },
+      {
+        "cuisine": "Mexican",
+        "food_name": "Tacos al Pastor",
+        "fact": "Tacos al Pastor is a traditional Mexican dish with thinly sliced pork, marinated in spices and chilies, served in tortillas.",
+        "price": "$9.99"
+      },
+      {
+        "cuisine": "Thai",
+        "food_name": "Green Curry",
+        "fact": "Green Curry is a Thai curry made with green chili paste, coconut milk, vegetables, and your choice of meat.",
+        "price": "$14.25"
+      },
+      {
+        "cuisine": "Indian",
+        "food_name": "Samosa",
+        "fact": "Samosa is an Indian snack with a crispy, fried outer crust and a savory filling, such as spiced potatoes and peas.",
+        "price": "$3.75"
+      },
+      {
+        "cuisine": "Spanish",
+        "food_name": "Gazpacho",
+        "fact": "Gazpacho is a Spanish cold soup made with blended tomatoes, cucumbers, peppers, onions, garlic, and olive oil.",
+        "price": "$8.50"
+      },
+      {
+        "cuisine": "Italian",
+        "food_name": "Lasagna",
+        "fact": "Lasagna is an Italian dish of stacked layers of wide, flat pasta, with sauce, cheese, and often other ingredients.",
+        "price": "$16.75"
+      },
+      {
+        "cuisine": "Lebanese",
+        "food_name": "Hummus",
+        "fact": "Hummus is a Lebanese dip or spread made from blended chickpeas, tahini, olive oil, lemon juice, and garlic.",
+        "price": "$6.25"
+      },
+      {
+        "cuisine": "Vietnamese",
+        "food_name": "Pho",
+        "fact": "Pho is a Vietnamese soup with broth, rice noodles, and meat, usually served with bean sprouts and fresh herbs.",
+        "price": "$10.99"
+      },
+      {
+        "cuisine": "Mediterranean",
+        "food_name": "Falafel",
+        "fact": "Falafel is a Mediterranean dish made from chickpeas or fava beans, herbs, and spices, shaped into balls and fried.",
+        "price": "$7.75"
+      },
+      {
+        "cuisine": "American",
+        "food_name": "Hamburger",
+        "fact": "Hamburger is a classic American dish with a seasoned ground beef patty, served in a bun with various toppings.",
+        "price": "$9.25"
+      },
+      {
+        "cuisine": "Chinese",
+        "food_name": "Kung Pao Chicken",
+        "fact": "Kung Pao Chicken is a Chinese stir-fry dish made with chicken, peanuts, vegetables, and chili peppers.",
+        "price": "$11.50"
+      },
+      {
+        "cuisine": "French",
+        "food_name": "Escargot",
+        "fact": "Escargot is a French delicacy of cooked land snails, often served with garlic butter and parsley.",
+        "price": "$18.75"
+      },
+      {
+        "cuisine": "Indian",
+        "food_name": "Butter Chicken",
+        "fact": "Butter Chicken is an Indian dish of marinated and grilled chicken served in a creamy tomato and butter sauce.",
+        "price": "$12.99"
+      },
+      {
+        "cuisine": "Japanese",
+        "food_name": "Ramen",
+        "fact": "Ramen is a Japanese soup dish with Chinese-style wheat noodles, often served in a meat or fish-based broth.",
+        "price": "$10.75"
+      },
+      {
+        "cuisine": "Mexican",
+        "food_name": "Guacamole",
+        "fact": "Guacamole is a Mexican dip made from mashed avocados, onions, tomatoes, cilantro, lime juice, and spices.",
+        "price": "$6.99"
+      },
+      {
+        "cuisine": "Thai",
+        "food_name": "Pad Thai",
+        "fact": "Pad Thai is a Thai stir-fried noodle dish with eggs, tofu or shrimp, bean sprouts, peanuts, and lime.",
+        "price": "$11.25"
+      },
+      {
+        "cuisine": "Italian",
+        "food_name": "Margherita Pizza",
+        "fact": "Margherita Pizza is a classic Italian pizza topped with tomatoes, mozzarella cheese, and fresh basil leaves.",
+        "price": "$14.50"
+      },
+      {
+        "cuisine": "Greek",
+        "food_name": "Spanakopita",
+        "fact": "Spanakopita is a Greek pastry filled with spinach, feta cheese, onions, and herbs, enclosed in layers of phyllo dough.",
+        "price": "$7.50"
+      },
+      {
+        "cuisine": "Spanish",
+        "food_name": "Paella",
+        "fact": "Paella is a Spanish rice dish cooked with saffron, various meats, seafood, and vegetables.",
+        "price": "$19.99"
+      },
+      {
+        "cuisine": "Lebanese",
+        "food_name": "Tabbouleh",
+        "fact": "Tabbouleh is a Lebanese salad made with finely chopped parsley, tomatoes, mint, bulgur, and seasoned with olive oil and lemon juice.",
+        "price": "$8.25"
+      },
+      {
+        "cuisine": "Indian",
+        "food_name": "Tandoori Chicken",
+        "fact": "Tandoori Chicken is an Indian dish made by marinating chicken in yogurt and spices and then roasted in a tandoor (clay oven).",
+        "price": "$13.25"
+      },
+      {
+        "cuisine": "Mediterranean",
+        "food_name": "Baba Ganoush",
+        "fact": "Baba Ganoush is a Mediterranean dip made from roasted eggplants, tahini, lemon juice, garlic, and spices.",
+        "price": "$7.75"
+      },
+      {
+        "cuisine": "Japanese",
+        "food_name": "Tempura",
+        "fact": "Tempura is a Japanese dish of battered and deep-fried seafood and vegetables.",
+        "price": "$12.75"
+      },
+
+    {
+      "cuisine": "Italian",
+      "food_name": "Tiramisu",
+      "fact": "Tiramisu is an Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese, dusted with cocoa.",
+      "price": "$8.99"
+    },
+    {
+      "cuisine": "Mexican",
+      "food_name": "Enchiladas",
+      "fact": "Enchiladas are Mexican tortillas rolled around a filling, typically containing meat, beans, and cheese, topped with sauce.",
+      "price": "$10.25"
+    },
+    {
+      "cuisine": "Thai",
+      "food_name": "Tom Yum Goong",
+      "fact": "Tom Yum Goong is a Thai soup with a spicy and sour flavor, usually made with shrimp, mushrooms, lemongrass, and lime leaves.",
+      "price": "$13.50"
+    },
+    {
+      "cuisine": "Indian",
+      "food_name": "Naan",
+      "fact": "Naan is an Indian flatbread, traditionally baked in a tandoor, and it complements various Indian dishes.",
+      "price": "$4.25"
+    },
+    {
+      "cuisine": "Spanish",
+      "food_name": "Churros",
+      "fact": "Churros are Spanish fried dough pastries, often enjoyed with a cup of hot chocolate or dulce de leche.",
+      "price": "$5.50"
+    },
+    {
+      "cuisine": "Lebanese",
+      "food_name": "Shawarma",
+      "fact": "Shawarma is a Lebanese meat preparation, where seasoned meat is stacked on a vertical rotisserie and shaved off for serving.",
+      "price": "$9.75"
+    },
+    {
+      "cuisine": "Vietnamese",
+      "food_name": "Banh Mi",
+      "fact": "Banh Mi is a Vietnamese sandwich filled with a combination of various ingredients, such as meats, vegetables, and condiments.",
+      "price": "$8.25"
+    },
+    {
+      "cuisine": "Mediterranean",
+      "food_name": "Hummus",
+      "fact": "Hummus is a Mediterranean dip or spread made from blended chickpeas, tahini, olive oil, lemon juice, and garlic.",
+      "price": "$6.25"
+    },
+    {
+      "cuisine": "Chinese",
+      "food_name": "Dumplings",
+      "fact": "Chinese dumplings are small, savory parcels of dough filled with meat, vegetables, or both, often served with dipping sauce.",
+      "price": "$7.50"
+    },
+    {
+      "cuisine": "French",
+      "food_name": "Croissant",
+      "fact": "Croissant is a buttery, flaky French pastry that makes for a delightful breakfast or snack.",
+      "price": "$3.99"
+    },
+    {
+      "cuisine": "American",
+      "food_name": "Macaroni and Cheese",
+      "fact": "Macaroni and Cheese is a classic American comfort food, made with macaroni pasta and a creamy cheese sauce.",
+      "price": "$8.75"
+    },
+    {
+      "cuisine": "Thai",
+      "food_name": "Green Papaya Salad",
+      "fact": "Green Papaya Salad is a spicy Thai salad made with shredded unripe papaya, tomatoes, chili peppers, and lime.",
+      "price": "$9.25"
+    },
+    {
+      "cuisine": "Italian",
+      "food_name": "Margherita Pizza",
+      "fact": "Margherita Pizza is a classic Italian pizza topped with tomatoes, mozzarella cheese, and fresh basil leaves.",
+      "price": "$14.50"
+    },
+    {
+      "cuisine": "Greek",
+      "food_name": "Souvlaki",
+      "fact": "Souvlaki is a popular Greek fast-food dish of grilled and skewered meat, often served with pita bread and tzatziki sauce.",
+      "price": "$11.75"
+    },
+    {
+      "cuisine": "Japanese",
+      "food_name": "Udon",
+      "fact": "Udon is a type of thick wheat noodle commonly used in Japanese cuisine, often served in a hot broth.",
+      "price": "$10.50"
+    },
+    {
+      "cuisine": "Mexican",
+      "food_name": "Chiles en Nogada",
+      "fact": "Chiles en Nogada is a Mexican dish consisting of roasted poblano chilies filled with picadillo and topped with walnut-based cream sauce and pomegranate seeds.",
+      "price": "$16.99"
+    },
+    {
+      "cuisine": "Thai",
+      "food_name": "Massaman Curry",
+      "fact": "Massaman Curry is a rich Thai curry with a fusion of Indian and Malay flavors, containing meat, potatoes, and roasted peanuts.",
+      "price": "$15.25"
+    },
+    {
+      "cuisine": "Indian",
+      "food_name": "Palak Paneer",
+      "fact": "Palak Paneer is an Indian curry made with spinach and cottage cheese, seasoned with garlic, garam masala, and other spices.",
+      "price": "$12.25"
+    },
+    {
+      "cuisine": "Spanish",
+      "food_name": "Gambas al Ajillo",
+      "fact": "Gambas al Ajillo is a classic Spanish tapas dish of shrimp sautéed in garlic-infused olive oil, often served with crusty bread.",
+      "price": "$13.75"
+    },
+    {
+      "cuisine": "Lebanese",
+      "food_name": "Manakish",
+      "fact": "Manakish is a Lebanese flatbread topped with a blend of thyme, sumac, sesame seeds, and olive oil.",
+      "price": "$7.25"
+    }
+  ]
+}
+      
+  
