@@ -2,7 +2,7 @@ require('dotenv').config();
 const  jwt_decode =require('jwt-decode');
 const { sign, verify }=require("jsonwebtoken");
 
-const secret =process.env.SECRET
+const secret ="PPGTHEGRATMASTEROFTHEWORLD987WHICHISUNCONCURED" || process.env.SECRET
 
 //setuser
 function setUser(user){

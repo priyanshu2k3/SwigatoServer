@@ -2,14 +2,14 @@ const express = require('express')
 const cors=require("cors")
 const Router=require("./router/routes.js")
 const mongoose = require ("mongoose")
-require('dotenv').config();
+require('dotenv').config
 const cookieParser = require('cookie-parser');
 
 //var data= require("./data.txt")
 //data=JSON.parse(data)
 const app = express()
 
-const uri =process.env.URI
+const uri ="mongodb+srv://ppg2k3:jBF8d191zeJl5LLY@zwigato.rxoljhr.mongodb.net/?retryWrites=true&w=majority" ||process.env.URI
 
 ///mogodb connecting
 mongoose.connect(uri, {useNewUrlParser: true,useUnifiedTopology: true,})
@@ -26,7 +26,7 @@ app.use(express.json())
 app.use(cors(withCredentials = true));
 app.use(cookieParser());
 
-const port = process.env.PORT ||8080;
+const port = 6969 ||process.env.PORT ||8080;
 
 app.use("/",Router)
 
