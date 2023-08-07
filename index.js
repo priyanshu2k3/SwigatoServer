@@ -9,8 +9,7 @@ const cookieParser = require('cookie-parser');
 //data=JSON.parse(data)
 const app = express()
 
-const uri ="mongodb+srv://ppg2k3:jBF8d191zeJl5LLY@zwigato.rxoljhr.mongodb.net/?retryWrites=true&w=majority" ||process.env.URI
-
+const uri ='mongodb+srv://ppg2k3:jBF8d191zeJl5LLY@zwigato.rxoljhr.mongodb.net/?retryWrites=true&w=majority'
 ///mogodb connecting
 mongoose.connect(uri, {useNewUrlParser: true,useUnifiedTopology: true,})
 .then(()=>{console.log("db is connected")})
